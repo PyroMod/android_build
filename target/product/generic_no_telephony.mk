@@ -33,7 +33,6 @@ PRODUCT_PACKAGES := \
     LatinIME \
     Launcher2 \
     Music \
-    Provision \
     Phone \
     QuickSearchBox \
     Settings \
