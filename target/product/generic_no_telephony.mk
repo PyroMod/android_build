@@ -29,12 +29,10 @@ PRODUCT_PACKAGES := \
     DrmProvider \
     Email \
     Exchange \
-    Gallery2 \
     LatinIME \
     Launcher2 \
     Music \
     Phone \
-    QuickSearchBox \
     Settings \
     Sync \
     SystemUI \
