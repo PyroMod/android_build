@@ -400,7 +400,6 @@ def WriteFullOTAPackage(input_zip, output_zip):
 
   AppendAssertions(script, input_zip)
   device_specific.FullOTA_Assertions()
-  device_specific.FullOTA_InstallBegin()
 
   script.ShowProgress(0.5, 0)
 
